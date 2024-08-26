@@ -17,8 +17,8 @@
 
 # Socials 💪🏻
 
-<p align="left" gap=10>
-<a href="https://linkedin.com/in/linkedin.com/in/soham-dwivedi-a7577323b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/soham-dwivedi-a7577323b" width="36" height="36" /></a>
+<p align="left">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/soham-dwivedi-a7577323b" width="36" height="36" />
 <a href="https://instagram.com/https://www.instagram.com/__soham._.dwivedi__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__soham._.dwivedi__/" width="36" height="36" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sg35331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sg35331" width="36" height="36" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/sg3533/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sg3533/" width="36" height="36" /></a>
