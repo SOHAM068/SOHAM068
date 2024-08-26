@@ -10,6 +10,7 @@
 
 ### A passionate Full Stack Mobile Application Developer from India
 
+- 🌍 I'm based in India
 - 🔭 I’m currently working on [Learning Management System](https://github.com/SOHAM068/Learning-Management-System.git)
 - 🌱 I’m currently learning **MongoDB and ExpressJS**
 - 📫 How to reach me **sdtm1881@gmail.com**
