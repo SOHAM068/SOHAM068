@@ -19,16 +19,16 @@
 
 <div align="left">
   <a href="https://linkedin.com/in/soham-dwivedi-a7577323b" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" height="36" style="margin: 5 10px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" height="36" style="margin: 5 50px;" />
   </a>
   <a href="https://www.instagram.com/__soham._.dwivedi__/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="36" height="36" style="margin: 5 10px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="36" height="36" style="margin: 5 50px;" />
   </a>
   <a href="https://www.hackerrank.com/sg35331" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="36" height="36" style="margin: 5 10px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="36" height="36" style="margin: 5 50px;" />
   </a>
   <a href="https://leetcode.com/u/sg3533/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="36" height="36" style="margin: 5 10px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="36" height="36" style="margin: 5 50px;" />
   </a>
 </div>
 
