@@ -12,7 +12,7 @@
 ### A passionate Full Stack Mobile Application Developer from India
 
 - 🌍 I'm based in India
-- 🔭 I’m currently working on [RyDigo](https://github.com/SOHAM068/RyDigo)
+- 🔭 I’m currently working on [Syncampus](https://github.com/SOHAM068/Syncampus)
 - 🌱 I’m currently learning **MongoDB and ExpressJS**
 - 📫 How to reach me **sdtm1881@gmail.com**
 - 📄 Know about my experiences [https://silver-adaline-25.tiiny.site](https://silver-adaline-25.tiiny.site)
