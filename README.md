@@ -13,7 +13,7 @@
 
 - 🌍 I'm based in India
 - 🔭 I’m currently working on [Syncampus](https://github.com/SOHAM068/Syncampus)
-- 🌱 I’m currently learning **MongoDB and ExpressJS**
+- 🌱 I’m currently learning **MongoDB, ExpressJS & Tailwind CSS **
 - 📫 How to reach me **sdtm1881@gmail.com**
 - 📄 Know about my experiences [https://silver-adaline-25.tiiny.site](https://silver-adaline-25.tiiny.site)
 
