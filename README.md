@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on [BentoBox](https://github.com/SOHAM068/Home_Meals_1)
 - 🌱 I’m currently learning **MongoDB, ExpressJS & Tailwind CSS **
 - 📫 How to reach me **sdtm1881@gmail.com**
-- 📄 Know about my Experiences [https://silver-adaline-25.tiiny.site](https://silver-adaline-25.tiiny.site)
+- 📄 Know about my experiences [https://silver-adaline-25.tiiny.site](https://silver-adaline-25.tiiny.site)
 
 # Socials 💪🏻
 
